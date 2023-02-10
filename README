@@ -8,11 +8,11 @@ Script video showcases on my Discord server
 
 Requires 1.8.9 Forge
 
-INSTALLATION:
-Download and install Forge 1.8.9
-Drag and drop "ZinoAddons.jar" into your "mods" folder in your .minecraft
-Launch Forge
-Right CTRL in-game to open GUI and select script you would like to try for 24 hours for free
+Download the latest release above [ZinoAddons.jar]
+Install Forge for 1.8.9
+Press windows + R and type %appdata%.
+Navigate to .minecraft\mods and drop the jar in the mods folder. (If the mods folder does not yet exist simply create it.)
+Run your instance of Forge.
 
 Note: Timer starts automatically from when the user selects a script in-game. There is no reverting/changing the script once timer has started.
 
